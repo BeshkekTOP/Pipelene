@@ -7,5 +7,4 @@ exclude =
     .venv,
     staticfiles
 max-line-length = 120
-max-complexity = 10
-ignore = E203, W503
+ignore = F821, E501, W503
