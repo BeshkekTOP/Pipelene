@@ -248,3 +248,4 @@ COMMENT ON TABLE analytics_customerstats IS 'Статистика клиенто
 
 
 
+
